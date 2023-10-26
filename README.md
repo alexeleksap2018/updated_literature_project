@@ -22,7 +22,7 @@ Node JS
 
 ### 2. Preview
 <p>
-  <img src="https://github.com/Jonnykratz/readme-images/blob/main/preview.png?raw=true" alt="eShopKE Demo" width="700" height="400" />
+  <img src="https://github.com/readme-images/blob/main/preview.png?raw=true" alt=" Demo" width="700" height="400" />
 </p>
 
 ### 3. Github
