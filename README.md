@@ -25,7 +25,7 @@ ng serve
 ```
 
 
-### 2. Github
+### 3. Github
 ```
 git add . 
 git status
