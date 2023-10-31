@@ -58,6 +58,9 @@
 
     <!-- Search Button -->
     <button class="search-btn" type="submit" [disabled]="!searchForm.valid || searchForm.pristine">Search</button>
+    <!-- Delete Button -->
+    <button class="delete-btn" type="submit" [disabled]="!searchForm.valid || searchForm.pristine"
+    (click)="deleteRecord()">Delete</button>
   </form>
 </div>
 

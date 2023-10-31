@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbf2a5dd-f151-4169-94a8-70806f0b3fd9" name="Changes" comment="" />
+    <list default="true" id="dbf2a5dd-f151-4169-94a8-70806f0b3fd9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/updated-literature-project/src/app/api.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/updated-literature-project/src/app/api.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/updated-literature-project/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/updated-literature-project/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/updated-literature-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/updated-literature-project/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/updated-literature-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/updated-literature-project/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/updated-literature-project/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/updated-literature-project/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/updated-literature-project/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/updated-literature-project/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/updated-literature-project/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/updated-literature-project/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/updated-literature-project/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/updated-literature-project/src/app/app.module.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,13 +42,14 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/JOHN/Documents/local/Angular_NodeJS_SpringBoot_practice/ANGULAR/MY_LIBRARIES/updated_literature_project",
+    "last_opened_file_path": "C:/Users/JOHN/Documents/local/Angular_NodeJS_SpringBoot_practice/ANGULAR/Reactive programming Angular/eShopKE",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "vcs.Git",
+    "ts.external.directory.path": "C:\\Users\\JOHN\\Documents\\local\\Angular_NodeJS_SpringBoot_practice\\ANGULAR\\MY_LIBRARIES\\updated_literature_project\\updated-literature-project\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -53,12 +65,18 @@
       <workItem from="1698305310327" duration="335000" />
       <workItem from="1698305901002" duration="92000" />
       <workItem from="1698306012323" duration="107000" />
-      <workItem from="1698306174574" duration="2881000" />
+      <workItem from="1698306174574" duration="4048000" />
+      <workItem from="1698327210204" duration="1334000" />
+      <workItem from="1698669096664" duration="4107000" />
+      <workItem from="1698771913398" duration="5149000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="angular.json" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
