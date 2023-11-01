@@ -1,3 +1,5 @@
+@import 'ngx-toastr/toastr';
+
 .search-input, .output-format-select {
   width: 100%;
   padding: 10px;
@@ -26,11 +28,24 @@
   cursor: pointer;
 }
 
+.delete-btn {
+  padding: 10px 20px;
+  background-color: crimson;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
 .search-btn:disabled {
   background-color: #ccc;
   cursor: not-allowed;
 }
 
+.delete-btn:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
 
-  
-  
+
+
