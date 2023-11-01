@@ -12,18 +12,25 @@ Node JS
 
 ### 1. Install
 
-#### Use the following commands in order to install the project in your environment.
+#### Run the following commands in order to install the project in your environment.
 
-1. git clone https://github.com/alexeleksap2018/updated_literature_project.git
-2. Open the project on your preferred IDE
-3. cd updated-literature-project
-4. npm install
-5. ng serve
+```
+git clone https://github.com/alexeleksap2018/updated_literature_project.git
+```
+Open the project on your preferred IDE and Run the following commands:
+```
+cd updated-literature-project
+npm install
+ng serve
+```
+Navigate to ```http://localhost:4200/``` 
 
-### 2. Preview
-<p>
-  <img src="https://github.com/blob/main/preview.png?raw=true" alt=" Demo" width="700" height="400" />
-</p>
 
 ### 3. Github
-1. git add .
+```
+git add . 
+git status
+git branch
+git commit -m "first commit"
+git push  https://alexeleksap2018@github.com/alexeleksap2018/updated_literature_project.git   
+```
