@@ -23,6 +23,7 @@ cd updated-literature-project
 npm install
 ng serve
 ```
+Navigate to ```http://localhost:4200/``` 
 
 
 ### 3. Github
