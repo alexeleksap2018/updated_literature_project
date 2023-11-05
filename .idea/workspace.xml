@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbf2a5dd-f151-4169-94a8-70806f0b3fd9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/updated-literature-project/src/app/api.service.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/updated-literature-project/src/app/api.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/updated-literature-project/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/updated-literature-project/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/updated-literature-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/updated-literature-project/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/updated-literature-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/updated-literature-project/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/updated-literature-project/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/updated-literature-project/src/app/app.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/updated-literature-project/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/updated-literature-project/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/updated-literature-project/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/updated-literature-project/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/updated-literature-project/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/updated-literature-project/src/app/app-routing.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/updated-literature-project/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/updated-literature-project/src/app/app.module.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,28 +21,32 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2XGXymTVUCDWomm7B4GN7CMd0BQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/JOHN/Documents/local/Angular_NodeJS_SpringBoot_practice/ANGULAR/Reactive programming Angular/eShopKE&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\JOHN\\Documents\\local\\Angular_NodeJS_SpringBoot_practice\\ANGULAR\\MY_LIBRARIES\\updated_literature_project\\updated-literature-project\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/JOHN/Documents/local/Angular_NodeJS_SpringBoot_practice/ANGULAR/Reactive programming Angular/eShopKE",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "ts.external.directory.path": "C:\\Users\\JOHN\\Documents\\local\\Angular_NodeJS_SpringBoot_practice\\ANGULAR\\MY_LIBRARIES\\updated_literature_project\\updated-literature-project\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +63,17 @@
       <workItem from="1698327210204" duration="1334000" />
       <workItem from="1698669096664" duration="4107000" />
       <workItem from="1698771913398" duration="5149000" />
+      <workItem from="1699179436142" duration="2594000" />
     </task>
+    <task id="LOCAL-00001" summary="delete record by id">
+      <option name="closed" value="true" />
+      <created>1698809278811</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698809278811</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,5 +104,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="delete record by id" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete record by id" />
   </component>
 </project>

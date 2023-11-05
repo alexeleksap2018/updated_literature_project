@@ -9,10 +9,12 @@ import { ReactiveFormsModule } from '@angular/forms';
 import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
 import {ToastrModule} from "ngx-toastr";
 import {HttpClientModule} from "@angular/common/http";
+import {CreateCiteComponent} from "./create-cite/create-cite.component";
 
 @NgModule({
   declarations: [
     AppComponent,
+    CreateCiteComponent,
   ],
   imports: [
     BrowserModule,
@@ -23,6 +25,6 @@ import {HttpClientModule} from "@angular/common/http";
     HttpClientModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent, CreateCiteComponent]
 })
 export class AppModule { }
